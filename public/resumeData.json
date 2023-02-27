@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Vraj Patel",
+    "occupation": "Full Stack Developer",
+    "description": "I work on every part of the stack",
+    "image": "profilepic.jpg",
+    "bio": "An enthusiastic Full Stack Developer working on web applications and web infrastructure.I have been working in Tata Consultancy Services(TCS) for 5 years.Experienced in working with team in different software development stages,ensuring a high-quality products.",
+    "contactmessage": "Get in touch with me for any working opportunities.",
+    "email": "patel.vraj7255@gmail.com",
+    "phone": "+1 (778) 955-2844",
+    "address": {
+      "street": "171-13898 64 Ave",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "zip": " V3W 1L6"
+    },
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1S3r0gm0GpGQip3N5TOph4DtAGSL1j6CG",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vrajpatel3010",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/VrajPatel-3010",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Conceptual & Language Proficiency",
+    "education": [
+      {
+        "school": "Fairleigh Dickinson University",
+        "degree": "Master's of Science in Computer Science",
+        "graduated": "April 2024",
+        "description": "Graduating in April 2024"
+      },{
+        "school": "Charotar University of Science and Technology",
+        "degree": "Bachelor's in Information and Technology",
+        "graduated": "May 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "TATA CONSULTANCY SERVICES (TCS)",
+        "title": "Full Stack Engineer/IT Analyst",
+        "years": "January 2020 - January 2023",
+        "description": "Designed cross-browser compatible website according to client specification using Ajax, jQuery and CSS/Bootstrap.Generated database designs to convert a 1600 static page rulebook into a dynamic single page module along with requirement elicitation, System design and testing.Integrated AWS S3 into the database for file uploads and downloads.Performed payment gateway integration and authentication with Android's REST APIs."
+      },
+      {
+        "company": "TATA CONSULTANCY SERVICES (TCS)",
+        "title": "System Engineer",
+        "years": "June 2018 - January 2020",
+        "description": "Ported static Java backend code to a dynamic Java Spring backend.Created a database that connected both digital and manual government forms using Hibernate.Provided support for bugs and issues post deployment."
+      },
+      {
+        "company": "TATA CONSULTANCY SERVICES (TCS)",
+        "title": "Associate System Engineer Intern",
+        "years": "January 2018 - April 2018",
+        "description": "Developed digital tax forms and debugged production issues.Provided on-site support at Nagapalika (City Council) and assisted officers with the new developed system."
+      },
+      {
+        "company": "DI SOLUTIONS",
+        "title": "Software Engineer Intern",
+        "years": "April 2017 - June 2017",
+        "description": "Developed PHP webpages for a WordPress website.Contributed towards requirement gathering from customers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Java Spring",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "AWS",
+        "level": "75%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vraj is knowledgable, articulate and a pleasure to work with. He always aims to on achieving goals without waiting for the deadlines to approach. I have worked with him on various projects where he proved to be the ideal teammate and a supporting colleague. He always motivates people around him. In addition to his excellent core skills of software engineering, he has exhibited a level of understanding and curiosity for new concepts that comes his way.I would highly recommend him for his skills and the person he has grown into.",
+        "user": "Riddhi Patel, Ex-Cisco"
+      },
+      {
+        "text": "Vraj possess great skills to become a wonderful technical asset in any organization. He is hard working with great enthusiasm to learn and implement new technologies. With superb communication, he makes it very easy for superiors to assign him tasks with an assurance that it will be delivered on time. In my personal experience he learnt AWS cloud very quickly and implemented a SQL DB in RDS with very minimal supervision. Not only he understand technology, he also involves in business understanding which will be becoming better with more experience he gains. All these qualities at such a young age only promise him a successful career and loads of learning.",
+        "user": "Rakesh Tripathi, Technical Lead at Tata Consultancy Services"
+      },
+      {
+        "text": "Vraj is one of the best colleague I had in my team. I highly recommend his expertise to any firm looking for the Software Developer and Full Stack Develeoper. He can become an appreciated member of any team.",
+        "user": "Vismay Raj, Module Lead at Tata Consultancy Services"
+      }
+    ]
+  }
+}
