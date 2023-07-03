@@ -60,7 +60,6 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-
             <TypeWriter
               options={{strings: ["I 'm " +name],
                 autoStart: true,

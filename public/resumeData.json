@@ -45,6 +45,12 @@
     ],
     "work": [
       {
+        "company": "ULTIMATE SIGNS AND WEB DESIGNING",
+        "title": "Full Stack Developer",
+        "years": "March 2023 - Present",
+        "description": "Developing web application linked with NFC card with inbuild login feature using Spring Boot(JWT Token Validation) and React deployed on AWS using EC2 and RDS.Users can register and configure a Landing page/ Portfolio by tapping the NFC card on any compatible device.Integrated REST API (Google Could API) to fetch the current accurate location of Employees with a clock in/clock out feature"
+      },
+      {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
         "title": "Full Stack Engineer/IT Analyst",
         "years": "January 2020 - January 2023",
@@ -88,7 +94,7 @@
       },
       {
         "name": "AWS",
-        "level": "75%"
+        "level": "90%"
       }
     ]
   },
