@@ -14,7 +14,7 @@
       "state": "British Columbia",
       "zip": " V3W 1L6"
     },
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1S3r0gm0GpGQip3N5TOph4DtAGSL1j6CG",
+    "resumedownload": "https://drive.usercontent.google.com/download?id=1i7TAvyHdEEQIdfPPhCTY2tPwVC4Wve-I&export=download&authuser=0&confirm=t&uuid=3bf2a398-9652-4604-b14f-8fcff9e4a13d&at=APZUnTUl2vy4O1H3h1W5k_2BiRrk:1705474171822",
     "social": [
       {
         "name": "linkedin",
@@ -45,10 +45,10 @@
     ],
     "work": [
       {
-        "company": "ULTIMATE SIGNS AND WEB DESIGNING",
+        "company": "ABC HOME AUTOMATION LTD.",
         "title": "Full Stack Developer",
         "years": "March 2023 - Present",
-        "description": "Developing web application linked with NFC card with inbuild login feature using Spring Boot(JWT Token Validation) and React deployed on AWS using EC2 and RDS.Users can register and configure a Landing page/ Portfolio by tapping the NFC card on any compatible device.Integrated REST API (Google Could API) to fetch the current accurate location of Employees with a clock in/clock out feature"
+        "description": "• Developed web application linked with NFC card with inbuild login feature using Spring Boot(JWT Token Validation) and React deployed on AWS using EC2,RDS,Elastic IP and Load Balancer • Users can register and configure a Landing page/ Portfolio and select the card type along with Paypal Checkout integration • Data conversion into .vcf card format for 'SAVE CONTACT' functionality on Apple/Android device • configure goDaddy SSL certificate to AWS EC2 instance  • Mapped Homepage/Login/Register/Dashboard/Payment/Contact Us pages into Portal • Integrated REST API (Google Cloud API) to fetch the current accurate location of Employees with a clock in/ clock out feature along with Reporting feature and access control for various kinds of user"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
@@ -77,11 +77,11 @@
     ],
     "skills": [
       {
-        "name": "Java",
+        "name": "JAVA",
         "level": "100%"
       },
       {
-        "name": "Java Spring",
+        "name": " SPRING BOOT",
         "level": "100%"
       },
       {
