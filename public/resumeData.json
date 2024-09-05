@@ -4,7 +4,7 @@
     "occupation": "Full Stack Developer",
     "description": "I work on every part of the stack",
     "image": "profilepic.jpg",
-    "bio": "As a Full Stack Developer with over five years of experience and a Master's degree in Computer Science, I specialize in Java, Spring Boot, ReactJs, and AWS. I have a proven track record of developing sophisticated web applications and large-scale software solutions for high-profile clients, coupled with leading small teams in project modules. I am dedicated to delivering innovative and efficient software solutions.",
+    "bio": "As a Full Stack Developer with over six years of experience and a Master's degree in Computer Science, I specialize in Java, Spring Boot, ReactJs, and AWS. I have a proven track record of developing sophisticated web applications and large-scale software solutions for high-profile clients, coupled with leading small teams in project modules. I am dedicated to delivering innovative and efficient software solutions.",
     "contactmessage": "Get in touch with me for any working opportunities.",
     "email": "patel.vraj7255@gmail.com",
     "phone": "+1 (778) 955-2844",
@@ -35,12 +35,12 @@
         "school": "Fairleigh Dickinson University",
         "degree": "Master's of Science in Computer Science",
         "graduated": "April 2024",
-        "description": "Graduating in April 2024"
+        "description": "Graduated with Distinction(3.8/4.0)"
       },{
         "school": "Charotar University of Science and Technology",
         "degree": "Bachelor's in Information and Technology",
         "graduated": "May 2018",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with Distinction(8.4/10.0)"
       }
     ],
     "work": [
