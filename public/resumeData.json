@@ -10,8 +10,8 @@
     "phone": "+1 (778) 955-2844",
     "address": {
       "street": "",
-      "city": "Vancouver,",
-      "state": "British Columbia",
+      "city": "Vancouver",
+      "state": "British Columbia,Canada",
       "zip": ""
     },
     "resumedownload": "https://drive.usercontent.google.com/download?id=1i7TAvyHdEEQIdfPPhCTY2tPwVC4Wve-I&export=download&authuser=0&confirm=t&uuid=3bf2a398-9652-4604-b14f-8fcff9e4a13d&at=APZUnTUl2vy4O1H3h1W5k_2BiRrk:1705474171822",
@@ -35,12 +35,12 @@
         "school": "Fairleigh Dickinson University",
         "degree": "Master's of Science in Computer Science",
         "graduated": "April 2024",
-        "description": "Graduated with Distinction(3.8/4.0)"
+        "description": "Graduated with Distinction (3.8/4.0)"
       },{
         "school": "Charotar University of Science and Technology",
         "degree": "Bachelor's in Information and Technology",
         "graduated": "May 2018",
-        "description": "Graduated with Distinction(8.4/10.0)"
+        "description": "Graduated with Distinction (8.4/10.0)"
       }
     ],
     "work": [
@@ -102,7 +102,7 @@
     "testimonials": [
       {
         "text": "I had the pleasure of collaborating with Vraj Patel, and I can confidently say that their expertise and dedication were invaluable. Vraj consistently demonstrated a strong work ethic, exceptional problem-solving skills, and a collaborative spirit. Their ability to think creatively and drive results significantly contributed to our project's success. I highly recommend Vraj for any future endeavors.",
-        "user": "Data Engineer at Anblicks"
+        "user": "Riddhi Patel, Data Engineer at Anblicks"
       },
       {
         "text": "Vraj Patel has an impressive ability to troubleshoot complex issues and implement innovative solutions, ensuring that our projects are delivered on time and exceed expectations.",
