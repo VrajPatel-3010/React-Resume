@@ -45,16 +45,16 @@
     ],
     "work": [
       {
-        "company": "ABC HOME AUTOMATION LTD.",
+        "company": "SPLENDID IT SOLUTIONS",
         "title": "Full Stack Developer",
         "years": "March 2023 - Present",
-        "description": "• Developed web application linked with NFC card with inbuild login feature using Spring Boot(JWT Token Validation) and React deployed on AWS using EC2,RDS,Elastic IP and Load Balancer • Users can register and configure a Landing page/ Portfolio and select the card type along with Paypal Checkout integration • Data conversion into .vcf card format for 'SAVE CONTACT' functionality on Apple/Android device • configure goDaddy SSL certificate to AWS EC2 instance  • Mapped Homepage/Login/Register/Dashboard/Payment/Contact Us pages into Portal • Integrated REST API (Google Cloud API) to fetch the current accurate location of Employees with a clock in/ clock out feature along with Reporting feature and access control for various kinds of user"
+        "description": "Implemented a microservices architecture for an NFC card integrated web application using Java Spring Boot and React Native at Splendid IT Solutions. Deployed on GCP, enhancing system scalability and fault tolerance Created e-commerce/dynamic websites for smaller businesses using PHP or JAVA backedIntegrated REST API (Google Cloud API) to fetch the current accurate location of Employees with a clock in/ clock out feature and implemented third-party PAYMENT integration to streamline transactions also used Git for version control and collaboration within the team Utilized Docker for containerization, improving development and deployment processesConfigured HTTP/TCP routing and Nginx for web application load balancing and traffic management. Implemented SSL certification for website security, enhancing data protection and user trust"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
         "title": "Full Stack Engineer/IT Analyst",
         "years": "January 2020 - January 2023",
-        "description": "Designed cross-browser compatible website according to client specification using Ajax, jQuery and CSS/Bootstrap.Generated database designs to convert a 1600 static page rulebook into a dynamic single page module along with requirement elicitation, System design and testing.Integrated AWS S3 into the database for file uploads and downloads.Performed payment gateway integration and authentication with Android's REST APIs."
+        "description": "Developed a cloud-native platform using React for the Directorate General of Civil Aviation. Designed a modular architecture for a cloud-native platform using React and Spring boot at Tata Consultancy Services. Converted a 1600 static page rulebook into a dynamic single-page application, employing MVC design pattern and K-means clustering for scalable and maintainable system architecture"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
@@ -86,11 +86,11 @@
       },
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "AWS",
@@ -101,16 +101,16 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Vraj is knowledgable, articulate and a pleasure to work with. He always aims to on achieving goals without waiting for the deadlines to approach. I have worked with him on various projects where he proved to be the ideal teammate and a supporting colleague. He always motivates people around him. In addition to his excellent core skills of software engineering, he has exhibited a level of understanding and curiosity for new concepts that comes his way.I would highly recommend him for his skills and the person he has grown into.",
-        "user": "Riddhi Patel, Ex-Cisco"
+        "text": "I had the pleasure of collaborating with Vraj Patel, and I can confidently say that their expertise and dedication were invaluable. Vraj consistently demonstrated a strong work ethic, exceptional problem-solving skills, and a collaborative spirit. Their ability to think creatively and drive results significantly contributed to our project's success. I highly recommend Vraj for any future endeavors.",
+        "user": "Data Engineer at Anblicks"
       },
       {
-        "text": "Vraj possess great skills to become a wonderful technical asset in any organization. He is hard working with great enthusiasm to learn and implement new technologies. With superb communication, he makes it very easy for superiors to assign him tasks with an assurance that it will be delivered on time. In my personal experience he learnt AWS cloud very quickly and implemented a SQL DB in RDS with very minimal supervision. Not only he understand technology, he also involves in business understanding which will be becoming better with more experience he gains. All these qualities at such a young age only promise him a successful career and loads of learning.",
-        "user": "Rakesh Tripathi, Technical Lead at Tata Consultancy Services"
+        "text": "Vraj Patel has an impressive ability to troubleshoot complex issues and implement innovative solutions, ensuring that our projects are delivered on time and exceed expectations.",
+        "user": "Okery Liu, Blockchain | Event | Gold Concentrate Procurement"
       },
       {
-        "text": "Vraj is one of the best colleague I had in my team. I highly recommend his expertise to any firm looking for the Software Developer and Full Stack Develeoper. He can become an appreciated member of any team.",
-        "user": "Vismay Raj, Module Lead at Tata Consultancy Services"
+        "text": "I had the pleasure of working with Vraj at TCS, where he was an excellent full stack developer. He has deep knowledge of Java and Spring Boot, and his skills were crucial in our DGCA project. Vraj's experience with AWS services made our project run smoothly and efficiently. He is great at integrating different technologies and creating high-quality applications. Vraj is not only technically skilled but also a great team player. He is dedicated, solves problems quickly, and always goes the extra mile. His hard work and innovative ideas were a big asset to our team. I highly recommend Vraj for any role that requires expertise in Java, Spring Boot, and AWS. He will be a valuable addition to any team.",
+        "user": "Manoj Shah, Senior Software Engineer at Cognizant"
       }
     ]
   }
