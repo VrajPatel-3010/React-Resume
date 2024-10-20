@@ -46,31 +46,31 @@
     "work": [
       {
         "company": "SPLENDID IT SOLUTIONS",
-        "title": "Full Stack Developer",
+        "title": "SENIOR SOFTWARE ENGINEER",
         "years": "March 2023 - Present",
-        "description": "Implemented a microservices architecture for an NFC card integrated web application using Java Spring Boot and React Native at Splendid IT Solutions. Deployed on GCP, enhancing system scalability and fault tolerance Created e-commerce/dynamic websites for smaller businesses using PHP or JAVA backedIntegrated REST API (Google Cloud API) to fetch the current accurate location of Employees with a clock in/ clock out feature and implemented third-party PAYMENT integration to streamline transactions also used Git for version control and collaboration within the team Utilized Docker for containerization, improving development and deployment processesConfigured HTTP/TCP routing and Nginx for web application load balancing and traffic management. Implemented SSL certification for website security, enhancing data protection and user trust"
+        "description": "Developed a web application with NFC card integration using Java Spring Boot (used JWT Token) and React with MYSQL database, deployed on AWS (EC2 and RDS), reducing system latency by 40% (from 200ms to 120ms). Enabled users to configure landing pages/portfolios via NFC cards and automated email notifications with AWS Lambda, increasing user registrations by 500 and reducing manual notifications by 50%.Integrated REST API (Google Cloud API) for real-time location tracking and third-party payment processing, reducing transaction time from 5 seconds to 3.75 seconds and improving code management with Git for 50 successful deployments. Configured HTTP/TCP routing and Nginx for load balancing, increasing scalability to handle 1,000 concurrent users, and implemented SSL certification, reducing security incidents by 40% on Linux system"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
-        "title": "Full Stack Engineer/IT Analyst",
+        "title": "SOFTWARE ENGINEER",
         "years": "January 2020 - January 2023",
-        "description": "Developed a cloud-native platform using React for the Directorate General of Civil Aviation. Designed a modular architecture for a cloud-native platform using React and Spring boot at Tata Consultancy Services. Converted a 1600 static page rulebook into a dynamic single-page application, employing MVC design pattern and K-means clustering for scalable and maintainable system architecture"
+        "description": "Designed a cloud-native website according to client specifications using React, Ajax, jQuery, SCSS/Bootstrap for the front end, and Java Spring Framework for the back end with MYSQL database. Converted a 1,600-page static rulebook into a dynamic single-page module using database designs and K-means clustering, resulting in a 70% reduction in page load times and improved data handling. Integrated AWS S3 for file uploads/downloads and implemented payment gateway integration and authentication with Android’s REST APIs, streamlining transaction processes and improving security"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
-        "title": "System Engineer",
+        "title": "SOFTWARE ENGINEER",
         "years": "June 2018 - January 2020",
-        "description": "Ported static Java backend code to a dynamic Java Spring backend.Created a database that connected both digital and manual government forms using Hibernate.Provided support for bugs and issues post deployment."
+        "description": "Migrated a static Java backend to a dynamic Java Spring backend, utilizing JSON for data transfer, and established a CI/CD pipeline for automated deployment on Jenkins, reducing deployment time by 25%. Integrated digital and manual government forms into a unified dashboard, streamlining document management and data retrieval for municipal services"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
-        "title": "Associate System Engineer Intern",
+        "title": "ASSOCIATE SYSTEM ENGINEER INTERN ",
         "years": "January 2018 - April 2018",
-        "description": "Developed digital tax forms and debugged production issues.Provided on-site support at Nagapalika (City Council) and assisted officers with the new developed system."
+        "description": "Designed and optimized RESTful APIs, improving data efficiency between front-end and back-end by 35%. Conducted unit testing using JUnit for Java applications, improving code quality and reducing defects by 15% across multiple projects. Guided users through the SDLC phases, from system implementation to ongoing maintenance, ensuring effective adoption"
       },
       {
         "company": "DI SOLUTIONS",
-        "title": "Software Engineer Intern",
+        "title": "SOFTWARE ENGINEER INTERN",
         "years": "April 2017 - June 2017",
         "description": "Developed PHP webpages for a WordPress website.Contributed towards requirement gathering from customers."
       }
