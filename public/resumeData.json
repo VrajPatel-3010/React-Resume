@@ -14,7 +14,7 @@
       "state": "British Columbia,Canada",
       "zip": ""
     },
-    "resumedownload": "https://drive.usercontent.google.com/download?id=1i7TAvyHdEEQIdfPPhCTY2tPwVC4Wve-I&export=download&authuser=0&confirm=t&uuid=3bf2a398-9652-4604-b14f-8fcff9e4a13d&at=APZUnTUl2vy4O1H3h1W5k_2BiRrk:1705474171822",
+    "resumedownload": "https://drive.google.com/file/d/1GaD89kWUw_OKZMG_46Ec9XXURHyt3YS0/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -48,25 +48,25 @@
         "company": "SPLENDID IT SOLUTIONS",
         "title": "SENIOR SOFTWARE ENGINEER",
         "years": "March 2023 - Present",
-        "description": "Developed a web application with NFC card integration using Java Spring Boot (used JWT Token) and React with MYSQL database, deployed on AWS (EC2 and RDS), reducing system latency by 40% (from 200ms to 120ms). Enabled users to configure landing pages/portfolios via NFC cards and automated email notifications with AWS Lambda, increasing user registrations by 500 and reducing manual notifications by 50%.Integrated REST API (Google Cloud API) for real-time location tracking and third-party payment processing, reducing transaction time from 5 seconds to 3.75 seconds and improving code management with Git for 50 successful deployments. Configured HTTP/TCP routing and Nginx for load balancing, increasing scalability to handle 1,000 concurrent users, and implemented SSL certification, reducing security incidents by 40% on Linux system"
+        "description": "Developed a web application with NFC card integration using Java Spring Boot (used JWT Token) and React with MYSQL database, deployed on AWS (EC2 and RDS), reducing system latency by 40% (from 200ms to 120ms).Enabled users to configure landing pages/portfolios via NFC cards and automated email notifications with AWS Lambda, increasing user registrations by 500 and reducing manual notifications by 50%.Integrated REST API (Google Cloud API) for real-time location tracking and third-party payment processing, reducing transaction time from 5 seconds to 3.75 seconds and improving code management with Git for 50 successful deployments.Configured HTTP/TCP routing and Nginx for load balancing, increasing scalability to handle 1,000 concurrent users, and implemented SSL certification, reducing security incidents by 40% on Linux system"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
         "title": "SOFTWARE ENGINEER",
         "years": "January 2020 - January 2023",
-        "description": "Designed a cloud-native website according to client specifications using React, Ajax, jQuery, SCSS/Bootstrap for the front end, and Java Spring Framework for the back end with MYSQL database. Converted a 1,600-page static rulebook into a dynamic single-page module using database designs and K-means clustering, resulting in a 70% reduction in page load times and improved data handling. Integrated AWS S3 for file uploads/downloads and implemented payment gateway integration and authentication with Android’s REST APIs, streamlining transaction processes and improving security"
+        "description": "Designed a cloud-native website according to client specifications using React, Ajax, jQuery, SCSS/Bootstrap for the front end, and Java Spring Framework for the back end with MYSQL database.Converted a 1,600-page static rulebook into a dynamic single-page module using database designs and K-means clustering, resulting in a 70% reduction in page load times and improved data handling.Integrated AWS S3 for file uploads/downloads and implemented payment gateway integration and authentication with Android's REST APIs, streamlining transaction processes and improving security"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
         "title": "SOFTWARE ENGINEER",
         "years": "June 2018 - January 2020",
-        "description": "Migrated a static Java backend to a dynamic Java Spring backend, utilizing JSON for data transfer, and established a CI/CD pipeline for automated deployment on Jenkins, reducing deployment time by 25%. Integrated digital and manual government forms into a unified dashboard, streamlining document management and data retrieval for municipal services"
+        "description": "Migrated a static Java backend to a dynamic Spring backend, utilizing JSON for data transfer, and established a CI/CD pipeline for automated deployment on Jenkins, reducing deployment time by 25%.Integrated digital and manual government forms into a unified dashboard, streamlining document management and data retrieval for municipal services"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
         "title": "ASSOCIATE SYSTEM ENGINEER INTERN ",
         "years": "January 2018 - April 2018",
-        "description": "Designed and optimized RESTful APIs, improving data efficiency between front-end and back-end by 35%. Conducted unit testing using JUnit for Java applications, improving code quality and reducing defects by 15% across multiple projects. Guided users through the SDLC phases, from system implementation to ongoing maintenance, ensuring effective adoption"
+        "description": "Designed and optimized RESTful APIs, improving data efficiency between front-end and back-end by 35%.Conducted unit testing using JUnit for Java applications, improving code quality and reducing defects by 15% across multiple projects.Guided users through the SDLC phases, from system implementation to ongoing maintenance, ensuring effective adoption"
       },
       {
         "company": "DI SOLUTIONS",
