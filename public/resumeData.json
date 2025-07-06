@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Vraj Patel",
-    "occupation": "Full Stack Developer",
+    "occupation": "Senior Software Developer",
     "description": "I work on every part of the stack",
     "image": "profilepic.jpg",
-    "bio": "As a Senior Software Developer with over six years of experience and a Master's degree in Computer Science, I specialize in Java, Spring Boot, ReactJs, and AWS. I have a proven track record of developing sophisticated web applications and large-scale software solutions for high-profile clients, coupled with leading small teams in project modules. I am dedicated to delivering innovative and efficient software solutions.",
+    "bio": "As a Senior Software Developer with over 7 years of experience and a Master's degree in Computer Science, I specialize in building scalable, high-performance web applications using Java, Spring Boot, React.js, and AWS. Currently, I work at Tata Consultancy Services (TCS) as a Lead Application Developer for the Bank of Montreal, where I contribute to the development of enterprise-grade financial applications. I have a proven track record of delivering complex software solutions for high-profile clients, leading cross-functional teams, and managing projects from concept to deployment. Passionate about clean code and cloud-native architecture, I continuously seek to improve systems through best practices, automation, and innovation",
     "contactmessage": "Get in touch with me for any working opportunities.",
     "email": "patel.vraj7255@gmail.com",
     "phone": "+1 (778) 955-2844",
@@ -45,10 +45,16 @@
     ],
     "work": [
       {
+        "company": "TATA CONSULTANCY SERVICES (TCS)",
+        "title": "SENIOR SOFTWARE ENGINEER",
+        "years": "December 2024 - Present",
+        "description": "Led the Customer Financial Module migration with 2 developers, using Spring Boot for backend and React for frontend, converting TIBCO-based XML SOAP requests to JSON REST APIs; resolved production issues, prepared design documentation, implemented new features, and coordinated integration efforts across multiple teams.Managed CI/CD pipelines using Jenkins for automated builds, tests, and deployments, improving deployment efficiency by 40% and reducing release errors.Collaborated with cross-functional teams in release planning calls, managed feature/release branches, conducted code reviews, and ensured smooth deployments to production"
+      },
+	  {
         "company": "SPLENDID IT SOLUTIONS",
         "title": "SENIOR SOFTWARE ENGINEER",
-        "years": "March 2023 - Present",
-        "description": "Developed a web application with NFC card integration using Java Spring Boot (used JWT Token) and React with MYSQL database, deployed on AWS (EC2 and RDS), reducing system latency by 40% (from 200ms to 120ms).Enabled users to configure landing pages/portfolios via NFC cards and automated email notifications with AWS Lambda, increasing user registrations by 500 and reducing manual notifications by 50%.Integrated REST API (Google Cloud API) for real-time location tracking and third-party payment processing, reducing transaction time from 5 seconds to 3.75 seconds and improving code management with Git for 50 successful deployments.Configured HTTP/TCP routing and Nginx for load balancing, increasing scalability to handle 1,000 concurrent users, and implemented SSL certification, reducing security incidents by 40% on Linux system"
+        "years": "March 2023 - December 2024",
+        "description": "• Designed and developed a website for a small business, incorporating secure user authentication, an integrated payment gateway, and location tracking, utilizing a diverse technology stack to meet specific client requirements.Built a web application with NFC card integration and inbuilt login functionality using Spring Boot (JWT Token Validation) and React. Deployed on AWS (EC2, RDS, Elastic IP, and Load Balancer), achieving a 30% improvement in deployment efficiency.Implemented user registration and configuration features for landing pages and portfolios, including card type selection and PayPal Checkout integration, resulting in 300+ new user sign-ups.Developed data conversion functionality into .vcf card format for 'SAVE CONTACT' on Apple/Android devices, facilitating seamless contact saving for over 500 users.Configured GoDaddy SSL certificate on AWS EC2, enhancing website security and reducing security incidents by 50%.Mapped and integrated core pages (Homepage, Login, Register, Dashboard, Payment, Contact Us) into the portal, streamlining user navigation and improving overall user experience.Integrated REST API (Google Cloud API) for accurate real-time location tracking with clock-in/clock-out features, reporting, and access control for 200+ employees, enhancing operational efficiency and data accuracy"
       },
       {
         "company": "TATA CONSULTANCY SERVICES (TCS)",
